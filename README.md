@@ -1,5 +1,5 @@
 - 👋 Hi, I’m A. Tarango, alias @Lxndrs
-- 👀 I'm PhD in Astropysics, actually at a posdoctoral ... about studying the effects in the ionosphere created by bolides entering the athmosphere.
+- 👀 I'm PhD in Astropysics, actually at a posdoctoral research about studying the effects in the ionosphere created by bolides entering the athmosphere.
 - 🌱 I’m currently learning and implementing python for my research.
 - 📫 Contact me if you wish: ja.tarangoyong@gmail.com
 
